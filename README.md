@@ -67,4 +67,4 @@ See `vCard-Generator.ipynb` for a ready-to-use Jupyter Notebook example.
 ---
 
 ## License
-MIT License
+GPL-3.0 License
